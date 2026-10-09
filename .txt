@@ -1,0 +1,11 @@
+Build a polished, mobile-first, text-only group chat app using HTML, CSS, vanilla JavaScript, PHP wth JSON endpoints, and MySQL.
+
+Features: Create/join rooms using unique 4-character invite codes, display names, admin controls, participant counts, copyable invites, message history, distinct message styling, and automatic chat refresh. Admins can close rooms; participants can leave independently.
+
+Security: PHP sessions, CSRF protection, validated inputs, secure database queries, and credentials stored outside the public web root.
+
+Design: Warm lavender backgrounds, purple accents, rounded cards, subtle shadows, accessible controls, and responsive layouts. Optimize for phones with keyboard-friendly chat, safe-area support, touch targets, and no horizontal overflow.
+
+Deliverables: Complete runnable code, MySQL schema, error/loading states, and local PHP/MySQL setup instructions.
+
+Constraint: No video or audio features.
